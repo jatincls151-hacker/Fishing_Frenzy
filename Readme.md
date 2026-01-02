@@ -37,5 +37,6 @@ Fishing Frenzy is a browser-based mini-game where the player controls a fishing 
 - Event Handling
 
 ## GitHub Repository
-(Add your GitHub repo link here)
+https://github.com/jatincls151-hacker/Fishing_Frenzy
+
 
