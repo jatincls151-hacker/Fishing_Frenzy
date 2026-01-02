@@ -18,6 +18,7 @@ Fishing Frenzy is a browser-based mini-game where the player controls a fishing 
 - Catch green fish to gain points
 - Avoid red fish
 - Game ends when health becomes zero
+- Health-3
 
 ## Key Features
 - Start, Play, Game Over states
@@ -37,3 +38,4 @@ Fishing Frenzy is a browser-based mini-game where the player controls a fishing 
 
 ## GitHub Repository
 (Add your GitHub repo link here)
+
